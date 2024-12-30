@@ -1,6 +1,0 @@
-@font-face {
-  font-family: 'CustomFont'; /* Nama font yang akan digunakan */
-  src: url('fonts/custom-font.ttf') format('truetype'); /* Path ke file font */
-  font-weight: normal; /* Berat font (normal, bold, dll.) */
-  font-style: normal; /* Gaya font (normal, italic, dll.) */
-}
